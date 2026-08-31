@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Signal Monitor</string>
+    <string name="refresh">Refresh</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="not_connected">Not connected</string>
+    <string name="permission_needed">Location permission required to read Wi-Fi info</string>
+    <string name="dash">—</string>
+    <string name="rssi_fmt">RSSI: %1$d dBm (avg %2$d)</string>
+    <string name="strength_fmt">Signal strength: %1$d%%</string>
+    <string name="low_signal_toast">Low Wi-Fi signal! Strength is only %1$d%%</string>
+    <string name="speed_fmt">Link speed: %1$d Mbps</string>
+    <string name="freq_fmt">Frequency: %1$d MHz (%2$s)</string>
+    <string name="channel_fmt">Channel: %1$d</string>
+    <string name="bssid_fmt">BSSID: %1$s</string>
+    <string name="ip_fmt">IP: %1$s</string>
+    <string name="quality_excellent">Excellent</string>
+    <string name="quality_good">Good</string>
+    <string name="quality_fair">Fair</string>
+    <string name="quality_weak">Weak</string>
+    <string name="quality_none">No signal</string>
+</resources>
